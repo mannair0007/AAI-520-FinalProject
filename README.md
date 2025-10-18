@@ -3,7 +3,8 @@
 This project is a part of the AAI-520 course in the Applied Artificial Intelligence Program at the University of San Diego (USD).
 
 **Project Status:** [Completed]
-**Final Notebook:** Project_AA 520_yogesh Sangwikar.ipynb
+
+**Final Notebook:** AAI_220_Final_Project_Group8.ipynb
 
 ---
 
